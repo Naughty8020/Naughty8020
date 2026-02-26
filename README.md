@@ -35,6 +35,6 @@
 ## ❤️ My favorite tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bun,hono,biome,zod,python,fastapi,neovim" />
+    <img src="https://skillicons.dev/icons?i=ts,go,react,bun,vuetify,vite,tailwind,prisma,supabase,fastapi,postman,docker,cloudflare,lua,neovim" />
   </a>
 </p>
