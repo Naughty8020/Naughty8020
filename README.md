@@ -30,3 +30,9 @@
 
 ### 🧰 Editor / Tooling
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+
+
+## ❤️ My favorite tools
+<p>
+  <img src="https://skillicons.dev/icons?i=bun,hono,biome,zod,python,fastapi,neovim" />
+</p>
