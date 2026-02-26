@@ -33,6 +33,8 @@
 
 
 ## ❤️ My favorite tools
-<p>
-  <img src="https://skillicons.dev/icons?i=bun,hono,biome,zod,python,fastapi,neovim" />
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bun,hono,biome,zod,python,fastapi,neovim" />
+  </a>
 </p>
