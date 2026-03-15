@@ -1,8 +1,8 @@
 ## Hello 👋
-- Yusuke Tamura
-- Japanese
-- Student
-- mainly focusing on web development. 
+- Yusuke Tamura 🤓
+- Japanese 🇯🇵
+- Student 🧑‍🎓
+- mainly focusing on web development.  💻
 
 --- 
 ## 🛠 Tech Stack
