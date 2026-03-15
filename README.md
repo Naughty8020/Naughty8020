@@ -1,3 +1,10 @@
+
+# Yusuke Tamura
+## I'm a computer science student based in Kyoto, mainly focusing on web development. 
+- Japanese
+- Student
+
+
 ## 🛠 Tech Stack
 
 ### 🌐 Frontend
