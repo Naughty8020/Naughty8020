@@ -43,5 +43,6 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,go,react,bun,vuetify,vite,tailwind,prisma,supabase,fastapi,postman,docker,cloudflare,lua,neovim" />
+    <img src="https://skills.syvixor.com/api/icons?i=hono" />
   </a>
 </p>
