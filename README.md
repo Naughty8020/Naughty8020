@@ -4,6 +4,7 @@
 - Student
 - mainly focusing on web development. 
 
+--- 
 ## 🛠 Tech Stack
 
 ### 🌐 Frontend
