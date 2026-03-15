@@ -42,7 +42,7 @@
 ## ❤️ My favorite tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,go,react,bun,vuetify,vite,tailwind,prisma,supabase,fastapi,postman,docker,cloudflare,lua,neovim" />
-    <img src="https://skills.syvixor.com/api/icons?i=hono,ghostty,github,jujutsu,huggingface,biome,zod,nextjs,tanstack,azure,nixos" />
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=golang,typescript,nextjs,tanstack,hono,biome,zod,bun,supabase,python,astraluv,fastapi,ghostty,huggingface,azure,neovim,lua,github,jujutsu,docker,nixos "/>
+    
   </a>
 </p>
