@@ -1,7 +1,7 @@
 ## Hello 👋
 - Yusuke Tamura 🤓
 - Japanese 🇯🇵
-- Currently working with axcira　🐬
+- Currently working with axcira 🐬
 - Student 🧑‍🎓
 - mainly focusing on web development.  💻
 
@@ -16,7 +16,7 @@
 
 ### ⚙️ Backend
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
