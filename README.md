@@ -1,6 +1,7 @@
 ## Hello 👋
 - Yusuke Tamura 🤓
 - Japanese 🇯🇵
+- Currently working with axcira　🐬
 - Student 🧑‍🎓
 - mainly focusing on web development.  💻
 
