@@ -43,7 +43,7 @@
 ## 💙 My favorite tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=golang,typescript,kotlin,ktor,gradle,idea,nextjs,astro,react,tanstack,hono,biome,zod,bun,supabase,python,uv,fastapi,ghostty,huggingface,arch,neovim,lua,github,docker,nixos"/>
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=golang,kotlin,ktor,gradle,idea,nextjs,astro,react,tanstack,hono,biome,zod,bun,supabase,python,uv,fastapi,ghostty,huggingface,arch,neovim,lua,github,docker,nixos"/>
     
   </a>
 </p>
