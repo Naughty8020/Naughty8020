@@ -45,7 +45,7 @@
 ## 💙 My favorite tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=golang,ts,react,vite,vitest,tanstack,hono,biome,zod,bun,tailwind,uv,fastapi,ghostty,huggingface,github,githubactions,docker"/>
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=golang,ts,react,vite,vitest,tanstack,hono,biome,zod,bun,tailwind,materialui,uv,fastapi,ghostty,github,githubactions,docker"/>
     
   </a>
 </p>
